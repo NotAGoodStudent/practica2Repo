@@ -3,3 +3,9 @@
 	padding: 0;
 	margin: 0;
 }
+
+.post1, .post2, .post2, .post4
+{
+	margin-top: 40px;
+	display: inline-block;
+}
